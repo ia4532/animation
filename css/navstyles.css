@@ -1,0 +1,21 @@
+nav{
+  margin-top: auto;
+  margin-left: 39.5%;
+}
+
+nav ul{
+  list-style-type: none;
+}
+nav li{
+  display: inline;
+  font-size: 17px;
+}
+nav li a:link, nav li a:visited {
+text-decoration: none;
+color: white;
+border-radius: 2px;
+padding: 4px 8px;
+margin: 20px;
+}
+nav li a:hover{
+  background-color: rgba(190, 130, 255, 0.7);
